@@ -1,0 +1,13 @@
+.share-artwork .editor {
+    position:sticky;
+    overflow:auto;
+    /*height:calc (100% - 40px);*/
+    height:90%;
+}
+
+.share-artwork button {
+    height: 34px;
+    width: 48%;
+    margin-bottom: 6px;
+}
+

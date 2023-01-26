@@ -1,0 +1,22 @@
+{
+	"id": "share-artwork",
+	"title": "Share Artwork",
+	"description": "Adds the option to share an actor's or item's artwork with players.",
+	"version": "0.0.1",
+	"authors": [
+    {
+      "name": "Paul Mohr",
+      "url": "suite600.com",
+      "email": "pwmohr@gmail.com"
+    }
+  ],
+  "compatibility": {
+    "minimum": 9,
+    "verified": "10.291"
+  },
+  "socket": true,
+  "styles": ["./styles/share-artwork.css"],
+  "scripts": [
+    "./scripts/share-artwork.js"
+  ]
+}
