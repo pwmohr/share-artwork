@@ -2,7 +2,7 @@
 	"id": "share-artwork",
 	"title": "Share Artwork",
 	"description": "Adds the option to share an actor's or item's artwork with players.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"authors": [
     {
       "name": "Paul Mohr",
